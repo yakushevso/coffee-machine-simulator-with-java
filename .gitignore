@@ -1,0 +1,21 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+build
+out
+
+# idea config
+.idea
+
+# stages
+/Coffee Machine Simulator with Java/Make a first cup/
+/Coffee Machine Simulator with Java/Calculate the ingredients/
+/Coffee Machine Simulator with Java/Estimate the number of servings/
+/Coffee Machine Simulator with Java/Add functions to your machine/
+/Coffee Machine Simulator with Java/Keep track of the supplies/
+/Coffee Machine Simulator with Java/Brush up your code/
